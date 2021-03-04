@@ -2,7 +2,7 @@
 #### ** Portifolio Project **
 
 
-Creating portfolio as an exercise for the "Desenvolve" Scholarship program, financed by Grupo Boticário.
+Creating portfolio as an exercise for the "Desenvolve" Scholarship Program, financed by Grupo Boticário.
 
 **FEATURES:**
 
